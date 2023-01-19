@@ -1,0 +1,15 @@
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\bin\Debug\net6.0\GC Lab 7.exe
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\bin\Debug\net6.0\GC Lab 7.deps.json
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\bin\Debug\net6.0\GC Lab 7.runtimeconfig.json
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\bin\Debug\net6.0\GC Lab 7.dll
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\bin\Debug\net6.0\GC Lab 7.pdb
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.csproj.AssemblyReference.cache
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.AssemblyInfoInputs.cache
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.AssemblyInfo.cs
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.csproj.CoreCompileInputs.cache
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.dll
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\refint\GC Lab 7.dll
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.pdb
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\GC Lab 7.genruntimeconfig.cache
+C:\Users\Mourad\source\repos\GC Lab 7\GC Lab 7\obj\Debug\net6.0\ref\GC Lab 7.dll
